@@ -109,3 +109,4 @@ $ npm run watch
 
 - You can request features and file bugs [here](https://github.com/ravgeetdhillon/notion-feeder/issues).
 - In case you get stuck somewhere, feel free to contact me at my [email](mailto:ravgeetdhillon@gmail.com).
+
